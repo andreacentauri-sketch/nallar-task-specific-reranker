@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<rect width="1200" height="630" fill="#f7f7f5"/>
+<rect x="40" y="40" width="1120" height="550" rx="28" fill="#ffffff" stroke="#1f1f1f" stroke-width="3"/>
+<text x="70" y="115" font-family="Arial,Helvetica,sans-serif" font-size="28" fill="#555">NALLAR AI ENGINEERING PORTFOLIO</text>
+<text x="70" y="165" font-family="Arial,Helvetica,sans-serif" font-size="48" font-weight="700" fill="#111">Model Tuning</text>
+<text x="70" y="210" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="700" fill="#111">96 labeled examples</text><text x="70" y="280" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="700" fill="#111">Loss 1.040 → 0.103</text>
+<text x="70" y="560" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#666">Evidence-backed portfolio metric</text>
+</svg>

@@ -1,0 +1,1 @@
+# Standard library only; consumes sibling G2 RAG package.

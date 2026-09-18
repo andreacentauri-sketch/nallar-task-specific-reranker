@@ -1,0 +1,88 @@
+{
+  "baseline": {
+    "case_count": 6,
+    "cases": [
+      {
+        "expected_doc_id": "offline_llm",
+        "id": "V01",
+        "rank": 1,
+        "top_doc_id": "offline_llm"
+      },
+      {
+        "expected_doc_id": "mcp_server",
+        "id": "V02",
+        "rank": 1,
+        "top_doc_id": "mcp_server"
+      },
+      {
+        "expected_doc_id": "telemetry",
+        "id": "V03",
+        "rank": 1,
+        "top_doc_id": "telemetry"
+      },
+      {
+        "expected_doc_id": "evaluation",
+        "id": "V04",
+        "rank": 1,
+        "top_doc_id": "evaluation"
+      },
+      {
+        "expected_doc_id": "agents",
+        "id": "V05",
+        "rank": 1,
+        "top_doc_id": "agents"
+      },
+      {
+        "expected_doc_id": "voice",
+        "id": "V06",
+        "rank": 1,
+        "top_doc_id": "voice"
+      }
+    ],
+    "mrr": 1.0,
+    "top1_accuracy": 1.0
+  },
+  "tuned": {
+    "case_count": 6,
+    "cases": [
+      {
+        "expected_doc_id": "offline_llm",
+        "id": "V01",
+        "rank": 1,
+        "top_doc_id": "offline_llm"
+      },
+      {
+        "expected_doc_id": "mcp_server",
+        "id": "V02",
+        "rank": 1,
+        "top_doc_id": "mcp_server"
+      },
+      {
+        "expected_doc_id": "telemetry",
+        "id": "V03",
+        "rank": 1,
+        "top_doc_id": "telemetry"
+      },
+      {
+        "expected_doc_id": "evaluation",
+        "id": "V04",
+        "rank": 1,
+        "top_doc_id": "evaluation"
+      },
+      {
+        "expected_doc_id": "agents",
+        "id": "V05",
+        "rank": 1,
+        "top_doc_id": "agents"
+      },
+      {
+        "expected_doc_id": "voice",
+        "id": "V06",
+        "rank": 1,
+        "top_doc_id": "voice"
+      }
+    ],
+    "mrr": 1.0,
+    "top1_accuracy": 1.0
+  }
+}

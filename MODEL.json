@@ -1,0 +1,23 @@
+{
+  "epochs": 800,
+  "feature_names": [
+    "bias",
+    "bm25_score",
+    "query_doc_overlap",
+    "query_title_overlap"
+  ],
+  "final_loss": 0.10269452753330544,
+  "initial_loss": 1.0397207708399188,
+  "l2": 0.001,
+  "learning_rate": 0.05,
+  "llm_weight_fine_tuning": false,
+  "loss_reduction": 0.9370262433066133,
+  "model_type": "task_specific_logistic_reranker",
+  "training_examples": 96,
+  "weights": [
+    -3.489887827569719,
+    1.1977884222221558,
+    0.16475336022224543,
+    0.20608221455622347
+  ]
+}

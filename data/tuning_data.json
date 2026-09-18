@@ -1,0 +1,96 @@
+{
+  "train": [
+    {
+      "id": "T01",
+      "query": "typed FastAPI streaming route local Ollama adapter",
+      "expected_doc_id": "offline_llm"
+    },
+    {
+      "id": "T02",
+      "query": "stdio JSON RPC tools resources prompts",
+      "expected_doc_id": "mcp_server"
+    },
+    {
+      "id": "T03",
+      "query": "BM25 chunks deterministic retrieval context pack",
+      "expected_doc_id": "rag_pipeline"
+    },
+    {
+      "id": "T04",
+      "query": "query hash raw query privacy telemetry latency",
+      "expected_doc_id": "telemetry"
+    },
+    {
+      "id": "T05",
+      "query": "recall at k mean reciprocal rank evaluation",
+      "expected_doc_id": "evaluation"
+    },
+    {
+      "id": "T06",
+      "query": "ClaimStrength EvidenceStrength production promotion evidence",
+      "expected_doc_id": "evidence"
+    },
+    {
+      "id": "T07",
+      "query": "planner researcher evaluator synthesizer multi agent",
+      "expected_doc_id": "agents"
+    },
+    {
+      "id": "T08",
+      "query": "speech input study coach voice feedback",
+      "expected_doc_id": "voice"
+    },
+    {
+      "id": "T09",
+      "query": "local first offline model MessageInput content",
+      "expected_doc_id": "offline_llm"
+    },
+    {
+      "id": "T10",
+      "query": "MCP initialize ping package manifest",
+      "expected_doc_id": "mcp_server"
+    },
+    {
+      "id": "T11",
+      "query": "retrieval chunk rank without embeddings",
+      "expected_doc_id": "rag_pipeline"
+    },
+    {
+      "id": "T12",
+      "query": "telemetry result chunk ids raw text not persisted",
+      "expected_doc_id": "telemetry"
+    }
+  ],
+  "validation": [
+    {
+      "id": "V01",
+      "query": "offline local model FastAPI typed message",
+      "expected_doc_id": "offline_llm"
+    },
+    {
+      "id": "V02",
+      "query": "agent tool protocol stdio resources prompts",
+      "expected_doc_id": "mcp_server"
+    },
+    {
+      "id": "V03",
+      "query": "privacy observability hash query retrieval",
+      "expected_doc_id": "telemetry"
+    },
+    {
+      "id": "V04",
+      "query": "test retrieval with MRR and recall metrics",
+      "expected_doc_id": "evaluation"
+    },
+    {
+      "id": "V05",
+      "query": "agent planner synthesis researcher evaluator",
+      "expected_doc_id": "agents"
+    },
+    {
+      "id": "V06",
+      "query": "voice speech study question answering coach",
+      "expected_doc_id": "voice"
+    }
+  ]
+}
