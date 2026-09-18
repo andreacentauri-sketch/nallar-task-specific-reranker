@@ -1,5 +1,5 @@
 {
-  "github_description": "Task-specific logistic reranker trained on 96 labeled retrieval examples. Training loss 1.040\u21920.103; validation top-1 1.00\u21921.00; 12/12 tests.",
+  "github_description": "Task-specific logistic reranker trained on 96 labeled retrieval examples. Training loss 1.040→0.103; validation top-1 1.00→1.00; 12/12 tests.",
   "github_topics": [
     "machine-learning",
     "reranking",
@@ -8,7 +8,7 @@
     "evaluation",
     "python"
   ],
-  "license": "MANUAL_SELECTION_REQUIRED",
+  "license": "MIT",
   "recommended_pin": true,
   "repository_name": "nallar-task-specific-reranker",
   "visibility": "public_after_manual_security_review"
