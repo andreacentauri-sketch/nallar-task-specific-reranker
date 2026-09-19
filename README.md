@@ -1,9 +1,6 @@
-## NALLAR
+### NALLAR
 
-Web interface: https://nallar.or.id
-
-Public engineering evidence for this repository is documented in the
-tests, evaluation artifacts, and evidence files included here.
+🌐 https://nallar.or.id  
 💻 Public AI engineering portfolio: https://github.com/andreacentauri-sketch
 
 # Model Tuning
